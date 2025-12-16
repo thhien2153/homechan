@@ -1,0 +1,11 @@
+<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ngôi sao 5 cánh -->
+  <polygon
+    points="40,10 47,35 73,35 52,50 59,75 40,60 21,75 28,50 7,35 33,35"
+    fill="none" stroke="#ffffff" stroke-width="4"
+  />
+  
+  <!-- Tên khách sạn KONGHOU -->
+  <text x="110" y="55" font-family="Georgia, serif" font-size="36" font-weight="600" fill="#ffffff">KONGHOU</text>
+</svg>
+
